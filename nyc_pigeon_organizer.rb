@@ -1,3 +1,4 @@
 def nyc_pigeon_organizer(data)
   pigeon_data=Hash.new
+  pigeon_data=[""]
 end
